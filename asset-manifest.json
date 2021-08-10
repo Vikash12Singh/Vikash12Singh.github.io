@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f4de77d2.chunk.css",
+    "main.js": "./static/js/main.6dbd50ce.chunk.js",
+    "main.js.map": "./static/js/main.6dbd50ce.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.c548fe5d.js",
+    "runtime-main.js.map": "./static/js/runtime-main.c548fe5d.js.map",
+    "static/js/2.b2d456af.chunk.js": "./static/js/2.b2d456af.chunk.js",
+    "static/js/2.b2d456af.chunk.js.map": "./static/js/2.b2d456af.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.376a6e0ec46001370712a5b68c25ccdc.js": "./precache-manifest.376a6e0ec46001370712a5b68c25ccdc.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.f4de77d2.chunk.css.map": "./static/css/main.f4de77d2.chunk.css.map",
+    "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/christ.png": "./static/media/christ.1a30919b.png",
+    "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/developerActivity.svg": "./static/media/developerActivity.59389695.svg",
+    "static/media/education.svg": "./static/media/education.caed892b.svg",
+    "static/media/experience.svg": "./static/media/experience.85d6957f.svg",
+    "static/media/experienceNew.svg": "./static/media/experienceNew.f2de24e6.svg",
+    "static/media/all.css": "./static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/feelingProud.svg": "./static/media/feelingProud.a73310ea.svg",
+    "static/media/gcp_logo.png": "./static/media/gcp_logo.ba18401b.png",
+    "static/media/projectWork.svg": "./static/media/projectWork.b808313a.svg",
+    "static/media/projectWork1.svg": "./static/media/projectWork1.b1faac64.svg",
+    "static/media/projectWorkNew.svg": "./static/media/projectWorkNew.404d2c78.svg",
+    "static/media/qwiklabs.svg": "./static/media/qwiklabs.bb4fd818.svg",
+    "static/media/techovid.png": "./static/media/techovid.4e7ffccd.png",
+    "static/media/vikash.png": "./static/media/vikash.fb34c500.png",
+    "static/media/vs_logo.svg": "./static/media/vs_logo.2f8ff501.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c548fe5d.js",
+    "static/js/2.b2d456af.chunk.js",
+    "static/css/main.f4de77d2.chunk.css",
+    "static/js/main.6dbd50ce.chunk.js"
+  ]
+}
