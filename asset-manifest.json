@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.f4de77d2.chunk.css",
-    "main.js": "./static/js/main.aeb427fd.chunk.js",
-    "main.js.map": "./static/js/main.aeb427fd.chunk.js.map",
+    "main.js": "./static/js/main.592997d2.chunk.js",
+    "main.js.map": "./static/js/main.592997d2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c548fe5d.js",
     "runtime-main.js.map": "./static/js/runtime-main.c548fe5d.js.map",
-    "static/js/2.b2d456af.chunk.js": "./static/js/2.b2d456af.chunk.js",
-    "static/js/2.b2d456af.chunk.js.map": "./static/js/2.b2d456af.chunk.js.map",
+    "static/js/2.35cda97e.chunk.js": "./static/js/2.35cda97e.chunk.js",
+    "static/js/2.35cda97e.chunk.js.map": "./static/js/2.35cda97e.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.b8f99aa6636efbea86d2b746b1c8769b.js": "./precache-manifest.b8f99aa6636efbea86d2b746b1c8769b.js",
+    "precache-manifest.814a211c2b024744c9c19b376bd60c9f.js": "./precache-manifest.814a211c2b024744c9c19b376bd60c9f.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.f4de77d2.chunk.css.map": "./static/css/main.f4de77d2.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
@@ -27,12 +27,15 @@
     "static/media/qwiklabs.svg": "./static/media/qwiklabs.bb4fd818.svg",
     "static/media/techovid.png": "./static/media/techovid.4e7ffccd.png",
     "static/media/vikash.png": "./static/media/vikash.fb34c500.png",
+    "static/media/vikash3.svg": "./static/media/vikash3.8c1bf636.svg",
+    "static/media/vikash4.jpg": "./static/media/vikash4.34b4173b.jpg",
+    "static/media/vikash41.jpg": "./static/media/vikash41.73e60d10.jpg",
     "static/media/vs_logo.svg": "./static/media/vs_logo.2f8ff501.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c548fe5d.js",
-    "static/js/2.b2d456af.chunk.js",
+    "static/js/2.35cda97e.chunk.js",
     "static/css/main.f4de77d2.chunk.css",
-    "static/js/main.aeb427fd.chunk.js"
+    "static/js/main.592997d2.chunk.js"
   ]
 }
